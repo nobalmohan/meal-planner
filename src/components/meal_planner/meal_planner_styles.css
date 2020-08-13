@@ -1,0 +1,22 @@
+.add-meal-card {
+  background-color: rgb(252, 245, 247);
+  text-align: center;
+  padding-top: 25%;
+  width: 420px;
+  height: 260px;
+}
+
+.selected-meal-card {
+  width: 420px;
+  height: 260px;
+  position: relative;
+}
+
+.selected-meal-card .title {
+  position: absolute;
+  left: 15px;
+  top: 15px;
+  font-size: 18px;
+  font-weight: 800;
+  color: #000;
+}
